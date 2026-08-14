@@ -1,5 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Sriharsha%20Gade%20👨‍💻&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
-<h3 align="center">AI\ML Engineer @ Kirusa |M.Sc Data Science @ VIT-AP</h3>
+<h3 align="center">AI\ML Engineer @ Kirusa |B Tech CSE @ KLU </h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
